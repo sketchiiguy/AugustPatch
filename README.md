@@ -10,7 +10,7 @@ server and switches off the checks that would otherwise close the game.
 | Output | `2024AugustPatch.dll` + `Injector.exe` |
 
 The patch only works on this exact build. Method addresses are fixed to it, so any other build will fail to hook
-or crash. `dump.cs` and `methods.csv` join https://discord.gg/rGwFmAKFPZ for the dump files where the addresses were taken from.
+or crash. `dump.cs` and `methods.csv` join https://discord.gg/rGwFmAKFPZ for the dump files where the addresses were taken from and for a good 2024 build, dump files will be added to a drive soon.
 
 ## Setup
 
