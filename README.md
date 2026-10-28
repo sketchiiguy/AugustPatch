@@ -38,7 +38,7 @@ or crash. `dump.cs` and `methods.csv` join https://discord.gg/rGwFmAKFPZ for the
    build.bat deploy
    ```
 
-   `deploy` copies both files into `D:\Puck\2024AugustPatch`. Set `PATCH_DEPLOY_DIR` to use a different folder.
+   `deploy` copies both files into `D:\Sketch\2024AugustPatch`. Set `PATCH_DEPLOY_DIR` to use a different folder.
    `build.bat` finds MSBuild itself, or you can set `MSBUILD_EXE`.
 
 3. Copy `2024AugustPatch.dll` and `Injector.exe` into the game folder, next to `RecRoom.exe`.
