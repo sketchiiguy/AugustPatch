@@ -3,6 +3,11 @@
 Client patch for **Rec Room 2024, build 20240802.02 (August 9th 2024)**. It points the PC client at your own
 server and switches off the checks that would otherwise close the game.
 
+
+# Discord
+https://discord.gg/rGwFmAKFPZ join for a good revival
+Or DM sketchgaming123 for help
+
 | | |
 |---|---|
 | Steam manifest | `-app 471710 -depot 471711 -manifest 7267876679868989367` |
@@ -10,7 +15,7 @@ server and switches off the checks that would otherwise close the game.
 | Output | `2024AugustPatch.dll` + `Injector.exe` |
 
 The patch only works on this exact build. Method addresses are fixed to it, so any other build will fail to hook
-or crash. `dump.cs` and `methods.csv` join https://discord.gg/rGwFmAKFPZ for the dump files where the addresses were taken from and for a good 2024 build, dump files will be added to a drive soon.
+or crash. `dump.cs` and `methods.csv` for the dump files where the addresses were taken from will be added to a drive soon.
 
 ## Setup
 
