@@ -3,6 +3,8 @@
 Client patch for **Rec Room 2024, build 20240802.02 (August 9th 2024)**. It points the PC client at your own
 server and switches off the checks that would otherwise close the game.
 
+Do not claim this is your work, it's a public open source repo. I have seen people already claiming they made their own when randomly they switch this build, I can tell because this build has an ugly profile in my opinion and I don't understand why you would want this build so stop skidding
+
 
 # Discord
 https://discord.gg/rGwFmAKFPZ join for a good revival
